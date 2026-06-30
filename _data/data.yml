@@ -488,6 +488,24 @@ people:
             photo: "/img/people/qianxi_chen.jpg"
             interests: "Operating systems, system security, and distributed systems"
 
+      - &ziyi_xu
+            name: "Ziyi Xu"
+            anchor: ziyi_xu
+            internal: true 
+            role: "Master's student"
+            since: 2025
+            photo: "/img/people/ziyi_xu.jpg"
+            interests: "Software supply chain security, dependency risk analysis, and intelligent systems"
+
+      - &qianxi_chen
+            name: "Qianxi Chen"
+            anchor: qianxi_chen
+            internal: true
+            role: "Ph.D. Student"
+            since: 2025
+            photo: "/img/people/qianxi_chen.jpg"
+            interests: "Operating systems, system security, and distributed systems"
+
       - &sanchit_sahay
             name: "Sanchit Sahay"
             anchor: sanchit_sahay
@@ -566,9 +584,6 @@ people:
           since: 2026
           photo: "/img/people/uk-jang.png"
           interests: "Operating systems, Cybersecurity"
-          publications:
-            - name: "SCORED 2026"
-              link: "/papers/sahay_sbomit_scored_2026.pdf"
 
       - &sean_kim
           name: "Sihoon (Sean) Kim"
