@@ -663,7 +663,6 @@ people:
       - type: "Other Students"
         anchor: otherstudents
         people:
-          - *pratham_hegde
           - *neil_naveen
           - *sean_kim
           - *uk_jang
