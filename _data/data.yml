@@ -934,6 +934,7 @@ projects:
             - *pratham_hegde
             - *sahil_zunjarrao
             - *pratham_hegde
+            - *sahil_zunjarrao
             - name: "Reza Curtmola (NJIT)"
               link: "https://cs.njit.edu/people/curtmola/"
             - *justin_cappos
