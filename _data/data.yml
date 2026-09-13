@@ -424,6 +424,8 @@ people:
             site: "https://scholar.google.com/citations?user=6khaGAsAAAAJ&hl=en"
             interests: "Automotive cybersecurity, cyber-physical systems, V2X authentication"
             publications:
+                - name: "SCORED 2026"
+                  link: "/papers/sahay_sbomit_scored_2026.pdf"
                 - name: "ACM CSUR"
                   link: "https://dl.acm.org/doi/pdf/10.1145/3637059"
                 - name: "IEEE TVT"
@@ -584,6 +586,9 @@ people:
           since: 2026
           photo: "/img/people/uk-jang.png"
           interests: "Operating systems, Cybersecurity"
+          publications:
+                - name: "SCORED 2026"
+                  link: "/papers/sahay_sbomit_scored_2026.pdf"
 
       - &sean_kim
           name: "Sihoon (Sean) Kim"
